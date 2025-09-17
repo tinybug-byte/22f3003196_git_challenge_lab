@@ -1,1 +1,1 @@
-# 22f3003196_git_challenge_lab
+This repository contains a Python project for arithmetic operations(sum, difference, product etc.,).
